@@ -1,10 +1,64 @@
-## Olá, sou o Pedro Henrique :)
-<div>
-  <a href="https://github.com/pedropizzetti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropizzetti&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropizzetti&layout=compact&langs_count=16&theme=holi"/>
-</div>
+# Pedro Pizzetti 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt"Pedro-Python" height="30" width="40" src="m
-          
+**`Estudante de Ciência de Dados`**
+
+Olá, meu nome é Pedro Henrique Pizzetti, tenho 15 anos e sou natural de Santa Catarina. Estou cursando o ensino médio no CEDUP, com o curso técnico em ciência de dados. 
+
+### 🖥️ Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=pedropizzetti&show_icons=true&theme=gotham&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropizzetti&theme=gotham&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
