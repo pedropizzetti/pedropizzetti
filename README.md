@@ -42,7 +42,7 @@ Olá, meu nome é Pedro Henrique Pizzetti, tenho 15 anos e sou natural de Santa 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 🗂️ Estatísticas
 
 <p>
   <img 
