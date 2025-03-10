@@ -62,6 +62,5 @@ Olá, meu nome é Pedro Henrique Pizzetti, tenho 15 anos e sou natural de Santa 
 
 </p>
 
-# 🔥 Minhas Contribuições
-![Gráfico de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=pedropizzetti&theme=gotham)
+
 
