@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência de Dados`**
 
-Olá, meu nome é Pedro Henrique Pizzetti, tenho 15 anos e sou natural de Santa Catarina. Estou cursando o ensino médio no CEDUP, com o curso técnico em ciência de dados. 
+Olá, meu nome é Pedro Pizzetti, tenho 15 anos e sou natural de Santa Catarina. Estou cursando o ensino médio no CEDUP, com o curso técnico em ciência de dados. 
 
 ### 🖥️ Linguagens e Tecnologias
 
