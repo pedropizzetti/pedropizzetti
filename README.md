@@ -17,7 +17,7 @@
 
 
 ### 🖥️ Linguagens e Tecnologias
-   
+  
 <img 
     align="left" 
     alt="Python" 
@@ -65,13 +65,12 @@
     src="https://github-readme-stats.vercel.app/api?username=pedropizzetti&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropizzetti&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="GitHub Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropizzetti&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
 
