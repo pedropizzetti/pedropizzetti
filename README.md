@@ -17,7 +17,7 @@
 
 
 ### 🖥️ Linguagens e Tecnologias
-  
+   
 <img 
     align="left" 
     alt="Python" 
@@ -67,9 +67,9 @@
 
   <img 
     align="left" 
-    alt="GitHub Top Languages" 
+    alt="GitHub Top Technologies" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropizzetti&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropizzetti&theme=dark&layout=compact&custom_title=Tecnologias" 
   />
 </p>
 
