@@ -6,7 +6,6 @@
 
 <br>
 <p align="center">
-  Todo grande cientista de dados começou de algum lugar. O meu começo é aqui. 15 anos, Ensino Médio, e um universo de dados pela frente.
   <br>
   
 <hr>
