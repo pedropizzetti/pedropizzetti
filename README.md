@@ -21,8 +21,8 @@
 
 ```python
 name = 'Pedro Pizzetti'
-age = 15
-school_level = '1st year of High School'
+age = 16
+school_level = '2nd year of High School'
 course = 'Data Science'
 hobbies = ['Gaming', 'Listening to music']
 
@@ -31,8 +31,6 @@ languages = {
     'programming': ['Python', 'SQL', 'HTML', 'CSS']
 }
 
-current_location = 'Brazil'
-dream_locations = ['United States', 'Japan', 'Germany']
 ```
 
 <h2 align="center">Status</h2>
