@@ -6,7 +6,7 @@
 
 <hr>
 
-<h2 align="center">💻 Linguagens e Tecnologias</h2>
+<h2 align="center">Linguagens e Tecnologias</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" />
@@ -17,7 +17,7 @@
 
 <hr>
 
-<h2 align="center">👤 Sobre mim</h2>
+<h2 align="center">Sobre mim</h2>
 
 <div>
 
