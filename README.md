@@ -17,8 +17,8 @@
 
 <h3 align="center">Sobre mim</h3>
 
-<div align="center">
-  <div style="background-color: #2a1b4d; padding: 22px; border-radius: 12px; max-width: 520px; margin: 0 auto; text-align: left; border: 1px solid #6b4e9e;">
+<div align="left">
+  <div style="background-color: #2a1b4d; padding: 22px; border-radius: 12px; max-width: 520px; text-align: left; border: 1px solid #6b4e9e;">
     
 ```python
 name = 'Pedro Pizzetti'
