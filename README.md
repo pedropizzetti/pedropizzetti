@@ -1,51 +1,33 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!;Esse+é+meu+perfil!;Sinta-se+em+casa!&center=true&size=30">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!;Esse+é+meu+perfil!;Sinta-se+em+casa!&center=true&size=30&width=500&duration=3000&color=00BFFF" alt="Typing SVG">
 </h1>
 
 <br>
-<p align="center">
-  <br>
-  
-<hr>
-<h2 align="center">Linguagens e tecnologias</h2>
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" width="52" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo" 
-  
-</p>
+
 <hr>
 
+<h2 align="center">Linguagens e tecnologias</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" width="55" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="55" alt="MySQL" />
+</p>
+
+<hr>
+
+<h3 align="center">Sobre mim</h3>
+
+<div align="center">
+  <div style="background-color: #2a1b4d; padding: 22px; border-radius: 12px; max-width: 520px; margin: 0 auto; text-align: left; border: 1px solid #6b4e9e;">
+    
 ```python
 name = 'Pedro Pizzetti'
 age = 16
 school_level = '2nd year of High School'
 course = 'Data Science'
-
 languages = {
     'human': ['Portuguese', 'English'],
     'programming': ['Python', 'SQL']
 }
-
-```
-
-<h2 align="center">Status</h2>
-<br>
-<p align=center>
-  <div align=center>
-  
-  </div>
-
-  <div align=center>
-    <a href="https://github.com/pedropizzetti/github-readme-stats">
-      <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropizzetti&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedropizzetti&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<hr>
+````
+<img height="210" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedropizzetti&#x26;layout=compact&#x26;langs_count=8&#x26;theme=github_dark&#x26;hide_border=true" alt="Most Used Languages">
