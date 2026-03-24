@@ -12,8 +12,6 @@
 <h2 align="center">Linguagens e tecnologias</h2>
 <br>
 <p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" width="52" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo" 
   
@@ -25,11 +23,10 @@ name = 'Pedro Pizzetti'
 age = 16
 school_level = '2nd year of High School'
 course = 'Data Science'
-hobbies = ['Gaming', 'Listening to music']
 
 languages = {
     'human': ['Portuguese', 'English'],
-    'programming': ['Python', 'SQL', 'HTML', 'CSS']
+    'programming': ['Python', 'SQL']
 }
 
 ```
