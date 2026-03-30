@@ -1,35 +1,29 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!;Esse+é+meu+perfil!;Sinta-se+em+casa!&center=true&size=30&width=500&duration=3000&color=00BFFF" />
-</h1>
+# Pedro Pizzetti
 
-<br>
+Estudante de Ciência de Dados com foco em automação e manipulação de dados usando Python e SQL.
 
-<hr>
+---
 
-<h2 align="center">Linguagens e Tecnologias</h2>
+### Stack Técnica
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50"/>
-</p>
+* **Linguagens e Tecnologias:** Python, MySQL
+* **Interface & Dashboard:** Streamlit
 
-<br>
+---
 
-<hr>
+### Projetos em Destaque
 
-<h2 align="center">Sobre mim</h2>
+**[Sistema de Gestão de Locação](https://github.com/pedropizzetti/locacao_brinquedos)**
+* Solução para gerenciamento de inventário, fluxo de reservas e faturamento automatizado.
+* *Tech Stack:* Python, Streamlit, MySQL.
 
-<div>
+**[Sistema de Controle de Mercado](https://github.com/pedropizzetti/mercado-python)**
+* Implementação de lógica de backend para controle de estoque e processamento de transações.
+* *Tech Stack:* Python, SQL.
 
-```python
-name = 'Pedro Pizzetti'
-age = 16
-school_level = '2nd year of High School'
-course = 'Data Science'
+---
 
-languages = {
-    'human': ['Portuguese', 'English'],
-    'programming': ['Python', 'SQL']
-}
-```
+### Formação & Atuação
+* **Técnico em Ciência de Dados** – Foco em análise estatística, estruturas de dados e desenvolvimento de sistemas integrados.
+
+---
