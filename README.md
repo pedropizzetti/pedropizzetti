@@ -32,4 +32,3 @@ languages = {
     'programming': ['Python', 'SQL']
 }
 ```
-</div> <br> <hr>  </p> <p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedropizzetti&layout=compact&langs_count=8&theme=github_dark&hide_border=true" /> </p> 
