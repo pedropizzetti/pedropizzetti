@@ -42,6 +42,6 @@ Backend para controle de estoque e registro de transações comerciais.
 ## Formação Acadêmica
 
 * Técnico em Ciência de Dados (em andamento)       
-  Ênfase em análise estatística, estruturas de dados e desenvolvimento de sistemas orientados a dados
+  Ênfase em análise estatística, estruturas de dados e desenvolvimento de sistemas orientados a dados.
 
 ---
